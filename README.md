@@ -31,7 +31,7 @@ O modelo utiliza uma rede neural LSTM bidirecional treinada sobre um dataset pú
 
 3. **Execute o notebook Jupyter:**
    ```bash
-   jupyter notebook Shield_AI.ipynb
+   Shield_AI.ipynb
    ```
 
 > ⚠️ **Atenção:** Use o Python 3.12.0
