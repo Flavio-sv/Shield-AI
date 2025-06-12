@@ -4,7 +4,7 @@ Este projeto utiliza técnicas de Processamento de Linguagem Natural (PLN) e apr
 
 ## 🚀 Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.12.0
 - TensorFlow / Keras
 - NLTK
 - Pandas, NumPy, Matplotlib
